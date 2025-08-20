@@ -26,22 +26,8 @@ I'm passionate about building scalable, user-friendly web applications and solvi
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb) 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
-**Other Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker) 
+**Other Tools:** 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git) 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux) 
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-000?&logo=virtualbox)
-
----
-
-<!--## 🔥 Featured Projects  
-
-- 🚧 [**Recursive Maze Solver (Java)**](#) – Recursive backtracking-based maze solver using stacks, queues, and heaps.  
-- 📂 [**Integrated File Storage & Memory Management System (Bash)**](#) – CCP project implementing file + memory management in pure Bash on Fedora Linux.  
-- 🌐 [**E-Commerce Dashboard**](#) – Full stack application with analytics, order management, and payment integration.  
-- 🛠️ [**Open Source Contributions**](#) – Active contributions to projects involving system scripts and frontend tooling. --> 
-
----
 
 ## 📊 GitHub Stats  
 
