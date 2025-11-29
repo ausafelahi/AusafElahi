@@ -1,5 +1,5 @@
 <h1 align= "center">Hi, I'm Ausaf Elahi</h1> 
-<h3 align= "center">Full Stack Developer | Frontend Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align= "center">Full Stack Developer | Frontend Developer | Backend Developer | Problem Solver | Tech Enthusiast</h3>
 
 # About Me:
 <br>About Me:<br>I’m a Full Stack and Frontend Developer with a strong passion for building high-quality, scalable web applications. My focus is on creating seamless user experiences while ensuring robust backend architectures. I love taking on challenges, collaborating with teams, and constantly improving my skillset in the ever-evolving field of web development.<br><br>Outside of coding, I enjoy staying updated with the latest trends in technology, contributing to open-source projects, and exploring new tools and frameworks.<br><br>Feel free to explore my repositories, ask questions, or reach out for collaboration opportunities!<br><br>👨‍💻 All of my projects are available at https://github.com/ausafelahi<br>✉️ How to reach me ausafelahi8@gmail.com
