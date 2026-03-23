@@ -1,5 +1,5 @@
 <h1 align= "center">Hi, I'm Ausaf Elahi</h1> 
-<h3 align= "center">Full Stack Developer | Frontend Developer | Backend Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align= "center">Full Stack Developer | Frontend Developer | Backend Developer | Problem Solver</h3>
 
 # About Me:
 I am a Full Stack Developer with expertise in both frontend and backend development, passionate about building scalable, high-quality web applications. I focus on creating seamless user experiences while ensuring robust system architectures. A natural problem solver, I enjoy tackling complex challenges and collaborating with teams to deliver impactful solutions.
