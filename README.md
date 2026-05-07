@@ -1,11 +1,93 @@
-<h1 align= "center">Hi, I'm Ausaf Elahi</h1> 
-<h3 align= "center">Full Stack Developer | Frontend Developer | Backend Developer | Problem Solver</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Ausaf%20Elahi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20•%20CS%20Student%20•%20Full%20Stack%20Learner&descAlignY=58"/>
 
-# About Me:
-I am a Full Stack Developer with expertise in both frontend and backend development, passionate about building scalable, high-quality web applications. I focus on creating seamless user experiences while ensuring robust system architectures. A natural problem solver, I enjoy tackling complex challenges and collaborating with teams to deliver impactful solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+AI+%26+Web+Projects;Learning+Software+Engineering;Exploring+Generative+AI;Always+Learning+New+Things" />
+</p>
 
-Beyond coding, I stay engaged with the latest technology trends, contribute to open-source projects, and continuously explore new tools and frameworks to enhance my skills.<br><br>👨‍💻 All of my projects are available at https://github.com/ausafelahi<br>✉️ How to reach me ausafelahi8@gmail.com
+<p align="center">
+  <a href="https://github.com/ausafelahi">
+    <img src="https://img.shields.io/github/followers/ausafelahi?style=for-the-badge&logo=github&color=2563EB"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=ausafelahi&style=for-the-badge&color=2563EB"/>
+  
+  <a href="https://github.com/ausafelahi?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Open-2563EB?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
+---
 
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![shadcnUI](https://img.shields.io/badge/Shadcn-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+# About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjbjR5dWd6Z2x3MnBiZ2J0d2FvOWQ1dGVsdmx4ZDF0a2s0cWJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```js
+const ausaf = {
+    education: "CS Student",
+    interests: ["AI", "Web Development", "Software Engineering"],
+    currentlyLearning: ["Full Stack"],
+    goal: "Become a skilled Software Engineer",
+    hobbies: ["Coding", "Building Projects", "Learning Tech"]
+};
+```
+
+- Passionate about building modern tech projects  
+- Exploring AI & Full Stack Development  
+- Learning something new every day  
+- Focused on improving coding & problem-solving skills  
+- Interested in Generative AI & scalable applications  
+
+<br clear="right"/>
+
+---
+
+# Tech Stack
+
+---
+
+# GitHub Analytics
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ausafelahi&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# Current Focus
+
+- Artificial Intelligence  
+- Full Stack Development  
+- Data Structures & Algorithms  
+- API Development & Integration  
+- Learning scalable backend systems  
+
+---
+
+# Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ausafelahi">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ausaf-elahi-02409b310/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="mailto:ausafelahi8@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"/>
