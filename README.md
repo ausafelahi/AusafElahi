@@ -1,93 +1,115 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Ausaf%20Elahi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20•%20CS%20Student%20•%20Full%20Stack%20Learner&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A8A,100:2563EB&text=Ausaf%20Elahi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+AI+%26+Web+Projects;Learning+Software+Engineering;Exploring+Generative+AI;Always+Learning+New+Things" />
+<div align="center">
+
+### Backend & Full Stack Developer · Node.js · Next.js · PostgreSQL
+
+<p>I build production-grade web applications — real APIs, real architecture, real tradeoffs.</p>
+
+<img src="https://komarev.com/ghpvc/?username=ausafelahi&label=Profile%20views&color=2563EB&style=flat" alt="profile views" />
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=4+Deployed+Projects+and+Counting;Express+5+%7C+PostgreSQL+%7C+Next.js;Interned+at+10Pearls+Pakistan;Seeking+Backend+%26+Full+Stack+Roles" alt="typing svg" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ausafelahi">
-    <img src="https://img.shields.io/github/followers/ausafelahi?style=for-the-badge&logo=github&color=2563EB"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=ausafelahi&style=for-the-badge&color=2563EB"/>
-  
-  <a href="https://github.com/ausafelahi?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Open-2563EB?style=for-the-badge&logo=github"/>
-  </a>
+</div>
+
+---
+
+## About Me
+
+I'm a third-year Software Engineering student at Iqra University (CGPA 3.74) who spent the last year shipping real things instead of tutorial projects.
+
+I interned at **10Pearls Pakistan** where I built and shipped features inside a production codebase as part of a cross-functional MERN stack team. After that I kept building on my own — layered backend architectures, AI-integrated full-stack apps, and REST APIs that actually handle auth, validation, logging, and rate limiting properly.
+
+I write backend systems with actual structure. Not monolithic route files.
+
+---
+
+## What I Do
+
+- Design and build layered REST APIs with proper separation of concerns
+- Integrate AI models (Gemini, Puter.js) into full-stack web applications
+- Handle auth end-to-end: JWT, OTP email verification, secure password reset flows
+- Write unit and integration tests across frontend and backend
+- Deploy and maintain production applications on Vercel
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [MediQueue](https://mediqueue-flax.vercel.app) | Hospital queue management REST API. Layered architecture, JWT auth, Zod validation, Pino logging, rate limiting. Written in ESM. | Express 5, PostgreSQL, Knex, Node.js |
+| [AI Mock Interview Platform](https://ausafelahi.vercel.app) | Records webcam answers, transcribes speech in real time, returns per-question AI feedback via Gemini. | Next.js, Drizzle ORM, Gemini 1.5, Clerk |
+| [AI Resume Analyzer](https://ai-resume-analyzer-nu-drab.vercel.app) | Converts uploaded PDFs to images, runs them through AI, returns ATS score with section-level feedback. | React Router v7, TypeScript, Vite, Docker |
+| [Nodus](https://github.com/ausafelahi/ausaf-elahi-mern-10pshine) | Full-stack notes management app built at 10Pearls. JWT auth, OTP email verification, unit + integration tests. | React, TypeScript, Node.js, Express, MongoDB |
+
+---
+
+## Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" />&nbsp;
 </p>
 
 ---
 
-# About Me
+## Backend
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjbjR5dWd6Z2x3MnBiZ2J0d2FvOWQ1dGVsdmx4ZDF0a2s0cWJqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```js
-const ausaf = {
-    education: "CS Student",
-    interests: ["AI", "Web Development", "Software Engineering"],
-    currentlyLearning: ["Full Stack"],
-    goal: "Become a skilled Software Engineer",
-    hobbies: ["Coding", "Building Projects", "Learning Tech"]
-};
-```
-
-- Passionate about building modern tech projects  
-- Exploring AI & Full Stack Development  
-- Learning something new every day  
-- Focused on improving coding & problem-solving skills  
-- Interested in Generative AI & scalable applications  
-
-<br clear="right"/>
-
----
-
-# Tech Stack
-
----
-
-# GitHub Analytics
-
----
-
-# Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ausafelahi&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" />&nbsp;
 </p>
 
 ---
 
-# Current Focus
+## Tools & Workflow
 
-- Artificial Intelligence  
-- Full Stack Development  
-- Data Structures & Algorithms  
-- API Development & Integration  
-- Learning scalable backend systems  
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
+</p>
 
 ---
 
-# Connect With Me
+## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ausafelahi">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ausafelahi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ausafelahi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-  <a href="https://www.linkedin.com/in/ausaf-elahi-02409b310/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+---
 
+## Connect With Me
+
+<p align="left">
   <a href="mailto:ausafelahi8@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/ausaf-elahi-02409b310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://ausafelahi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<p align="center"><strong>Most CS students graduate with projects that only ever ran on localhost. Mine are deployed.</strong></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"/>
