@@ -1,15 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A8A,100:2563EB&text=Ausaf%20Elahi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58"/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0F172A,50:1E3A8A,100:2563EB&amp;text=Ausaf%20Elahi&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20and%20Full%20Stack%20Developer&amp;descAlignY=58"/>
+</div>
 
 <div align="center">
 
-### Backend & Full Stack Developer · Node.js · Next.js · PostgreSQL
+### Backend and Full Stack Developer · Node.js · Next.js · PostgreSQL
 
-<p>I build production-grade web applications — real APIs, real architecture, real tradeoffs.</p>
+<p>I build production-grade web applications. Real APIs, real architecture, real tradeoffs.</p>
 
 <img src="https://komarev.com/ghpvc/?username=ausafelahi&label=Profile%20views&color=2563EB&style=flat" alt="profile views" />
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=4+Deployed+Projects+and+Counting;Express+5+%7C+PostgreSQL+%7C+Next.js;Interned+at+10Pearls+Pakistan;Seeking+Backend+%26+Full+Stack+Roles" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=4+Deployed+Projects+and+Counting;Express+5+%7C+PostgreSQL+%7C+Next.js;Interned+at+10Pearls+Pakistan;Seeking+Backend+and+Full+Stack+Roles" alt="typing svg" />
 </p>
 
 </div>
@@ -18,9 +20,9 @@
 
 ## About Me
 
-I'm a third-year Software Engineering student at Iqra University (CGPA 3.74) who spent the last year shipping real things instead of tutorial projects.
+Third-year Software Engineering student who spent the last year shipping real things instead of tutorial projects.
 
-I interned at **10Pearls Pakistan** where I built and shipped features inside a production codebase as part of a cross-functional MERN stack team. After that I kept building on my own — layered backend architectures, AI-integrated full-stack apps, and REST APIs that actually handle auth, validation, logging, and rate limiting properly.
+I interned at **10Pearls Pakistan** where I built and shipped features inside a production codebase as part of a cross-functional MERN stack team. After that I kept building on my own. Layered backend architectures, AI-integrated full-stack apps, and REST APIs that actually handle auth, validation, logging, and rate limiting properly.
 
 I write backend systems with actual structure. Not monolithic route files.
 
@@ -43,7 +45,7 @@ I write backend systems with actual structure. Not monolithic route files.
 | [MediQueue](https://mediqueue-flax.vercel.app) | Hospital queue management REST API. Layered architecture, JWT auth, Zod validation, Pino logging, rate limiting. Written in ESM. | Express 5, PostgreSQL, Knex, Node.js |
 | [AI Mock Interview Platform](https://ausafelahi.vercel.app) | Records webcam answers, transcribes speech in real time, returns per-question AI feedback via Gemini. | Next.js, Drizzle ORM, Gemini 1.5, Clerk |
 | [AI Resume Analyzer](https://ai-resume-analyzer-nu-drab.vercel.app) | Converts uploaded PDFs to images, runs them through AI, returns ATS score with section-level feedback. | React Router v7, TypeScript, Vite, Docker |
-| [Nodus](https://github.com/ausafelahi/ausaf-elahi-mern-10pshine) | Full-stack notes management app built at 10Pearls. JWT auth, OTP email verification, unit + integration tests. | React, TypeScript, Node.js, Express, MongoDB |
+| [Nodus](https://github.com/ausafelahi/ausaf-elahi-mern-10pshine) | Full-stack notes management app built at 10Pearls. JWT auth, OTP email verification, unit and integration tests. | React, TypeScript, Node.js, Express, MongoDB |
 
 ---
 
@@ -71,7 +73,7 @@ I write backend systems with actual structure. Not monolithic route files.
 
 ---
 
-## Tools & Workflow
+## Tools and Workflow
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
@@ -112,4 +114,6 @@ I write backend systems with actual structure. Not monolithic route files.
 
 <p align="center"><strong>Most CS students graduate with projects that only ever ran on localhost. Mine are deployed.</strong></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:0F172A,50:1E3A8A,100:2563EB"/>
+</div>
