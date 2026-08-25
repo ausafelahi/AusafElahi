@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0F172A,50:1E3A8A,100:2563EB&amp;text=Ausaf%20Elahi&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20and%20Full%20Stack%20Developer&amp;descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1E3A8A,100:2563EB&text=Ausaf%20Elahi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20and%20Full%20Stack%20Developer&descAlignY=58"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=ausafelahi&label=Profile%20views&color=2563EB&style=flat" alt="profile views" />
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=4+Deployed+Projects+and+Counting;Express+5+%7C+PostgreSQL+%7C+Next.js;Interned+at+10Pearls+Pakistan;Seeking+Backend+and+Full+Stack+Roles" alt="typing svg" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=6+Deployed+Projects+and+Counting;Next.js+%7C+Express+5+%7C+PostgreSQL+%7C+Supabase;Interned+at+10Pearls+Pakistan;Seeking+Backend+and+Full+Stack+Roles" alt="typing svg" />
 </p>
 
 </div>
@@ -20,9 +20,9 @@
 
 ## About Me
 
-Third-year Software Engineering student who spent the last year shipping real things instead of tutorial projects.
+Final-year Software Engineering student who spent the last year shipping real things instead of tutorial projects.
 
-I interned at **10Pearls Pakistan** where I built and shipped features inside a production codebase as part of a cross-functional MERN stack team. After that I kept building on my own. Layered backend architectures, AI-integrated full-stack apps, and REST APIs that actually handle auth, validation, logging, and rate limiting properly.
+I interned at **10Pearls Pakistan** where I built and shipped features inside a production codebase as part of a cross-functional MERN stack team. After that I kept building on my own. Layered backend architectures, AI-integrated full-stack platforms, and REST APIs that actually handle auth, validation, logging, and rate limiting properly.
 
 I write backend systems with actual structure. Not monolithic route files.
 
@@ -31,8 +31,9 @@ I write backend systems with actual structure. Not monolithic route files.
 ## What I Do
 
 - Design and build layered REST APIs with proper separation of concerns
-- Integrate AI models (Gemini, Puter.js) into full-stack web applications
-- Handle auth end-to-end: JWT, OTP email verification, secure password reset flows
+- Integrate AI models (Gemini, OpenRouter, Puter.js) into full-stack web applications
+- Build retrieval pipelines with pgvector embeddings for codebase and document Q&A
+- Handle auth end-to-end: JWT, OAuth, OTP email verification, secure password reset flows
 - Write unit and integration tests across frontend and backend
 - Deploy and maintain production applications on Vercel
 
@@ -40,12 +41,15 @@ I write backend systems with actual structure. Not monolithic route files.
 
 ## Projects
 
+## Projects
+
 | Project | What it does | Stack |
 |---|---|---|
-| [MediQueue](https://mediqueue-flax.vercel.app) | Hospital queue management REST API. Layered architecture, JWT auth, Zod validation, Pino logging, rate limiting. Written in ESM. | Express 5, PostgreSQL, Knex, Node.js |
-| [AI Mock Interview Platform](https://ausafelahi.vercel.app) | Records webcam answers, transcribes speech in real time, returns per-question AI feedback via Gemini. | Next.js, Drizzle ORM, Gemini 1.5, Clerk |
-| [AI Resume Analyzer](https://ai-resume-analyzer-nu-drab.vercel.app) | Converts uploaded PDFs to images, runs them through AI, returns ATS score with section-level feedback. | React Router v7, TypeScript, Vite, Docker |
-| [Nodus](https://github.com/ausafelahi/ausaf-elahi-mern-10pshine) | Full-stack notes management app built at 10Pearls. JWT auth, OTP email verification, unit and integration tests. | React, TypeScript, Node.js, Express, MongoDB |
+| [DevLens AI](https://github.com/ausafelahi) | AI developer intelligence platform for repository analysis, chat-with-codebase using pgvector embeddings, architecture analysis, AI code review, dependency scanning, tech-debt detection, and documentation generation. | Next.js, TypeScript, Drizzle ORM, Supabase/pgvector, Clerk, OpenRouter, Gemini |
+| [Jargon no Jutsu](https://github.com/ausafelahi) | AI-powered learning platform that explains CS, Software Engineering, AI, and cybersecurity concepts through anime-character analogies, with daily lessons and an email newsletter. | Next.js, TypeScript, Tailwind, Supabase, Drizzle ORM, OpenRouter, Resend |
+| [MediQueue](https://mediqueue-flax.vercel.app) | Hospital queue management REST API with layered architecture, JWT authentication, Zod validation, Pino logging, and rate limiting. | Express 5, PostgreSQL, Knex, Node.js |
+| [Nodus](https://github.com/ausafelahi/ausaf-elahi-mern-10pshine) | Full-stack notes management application built during my 10Pearls internship, with JWT authentication, OTP email verification, and automated testing. | React, TypeScript, Node.js, Express, MongoDB |
+
 
 ---
 
@@ -56,6 +60,7 @@ I write backend systems with actual structure. Not monolithic route files.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" />&nbsp;
 </p>
@@ -69,6 +74,17 @@ I write backend systems with actual structure. Not monolithic route files.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42" height="42" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="42" height="42" />&nbsp;
+</p>
+
+---
+
+## AI / Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenRouter-6B46C1?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />&nbsp;
 </p>
 
 ---
@@ -88,11 +104,15 @@ I write backend systems with actual structure. Not monolithic route files.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ausafelahi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ausafelahi&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ausafelahi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ausafelahi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ausafelahi&theme=tokyonight" />
 </p>
+
+
 
 ---
 
@@ -115,5 +135,5 @@ I write backend systems with actual structure. Not monolithic route files.
 <p align="center"><strong>Most CS students graduate with projects that only ever ran on localhost. Mine are deployed.</strong></p>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:0F172A,50:1E3A8A,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"/>
 </div>
